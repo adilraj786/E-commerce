@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/adilraj786/E-commerce?style=flat-square" alt="License"/>
+  [![License](https://img.shields.io/badge/License-MIT-green.svg)](#license)
   <img src="https://img.shields.io/github/stars/adilraj786/E-commerce?style=flat-square" alt="Stars"/>
   <img src="https://img.shields.io/github/forks/adilraj786/E-commerce?style=flat-square" alt="Forks"/>
 </p>
