@@ -185,12 +185,6 @@ E-commerce/
 
 # ⚙️ Configuration
 
-Before running the project locally, configure the required third-party services.
-
-> ⚠️ **Security Notice:** Never commit API secrets, Stripe secret keys, passwords, private credentials, or `.env` files to GitHub.
-
----
-
 # 💳 Stripe Configuration
 
 Stripe is used to process online payments.
