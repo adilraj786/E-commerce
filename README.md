@@ -495,34 +495,6 @@ ZIP: Any valid ZIP
 
 Use Stripe's official testing documentation for additional test scenarios.
 
----
-
-# 🔒 Security Guidelines
-
-Never commit the following to a public repository:
-
-* ❌ Stripe Secret Keys
-* ❌ Database passwords
-* ❌ Private API credentials
-* ❌ Authentication tokens
-* ❌ `.env` files
-* ❌ Private cloud credentials
-* ❌ Service account private keys
-
-### If a secret is accidentally exposed
-
-Immediately:
-
-1. Revoke the exposed credential.
-2. Generate a new credential.
-3. Update the application configuration.
-4. Remove the exposed secret from the repository.
-5. Consider removing the secret from Git history.
-
-> **Important:** Removing a secret from the latest commit does not make an already-exposed credential safe. Always rotate or revoke compromised credentials.
-
----
-
 # 🧪 Development Checklist
 
 Before running the application, verify:
