@@ -652,7 +652,7 @@ This project demonstrates practical experience in:
 <p align="center">
   <strong>Adil Raj</strong>
   <br>
-  Full-Stack Developer • Cybersecurity Enthusiast
+  Software Engineering Aspirant | Full-Stack Developer | AI & Cybersecurity | Building Scalable Software & Real-World Solutions
   <br><br>
   <a href="https://github.com/adilraj786">
     <img src="https://img.shields.io/badge/GitHub-adilraj786-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
