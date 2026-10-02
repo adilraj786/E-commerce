@@ -666,7 +666,6 @@ This project demonstrates practical experience in:
 ---
 
 <p align="center">
-  <strong>© 2026 Adil Raj</strong>
+  <strong>© MIT 2026 Adil Raj</strong>
   <br>
-  <sub>Built with React, Node.js, Firebase, Stripe & Cloudinary.</sub>
 </p>
