@@ -24,9 +24,15 @@
 </p>
 
 <p align="center">
-  [![License](https://img.shields.io/badge/License-MIT-green.svg)](#license)
-  <img src="https://img.shields.io/github/stars/adilraj786/E-commerce?style=flat-square" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/adilraj786/E-commerce?style=flat-square" alt="Forks"/>
+  <a href="#license">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"/>
+  </a>
+  <a href="https://github.com/adilraj786/E-commerce/stargazers">
+    <img src="https://img.shields.io/github/stars/adilraj786/E-commerce?style=flat-square" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/adilraj786/E-commerce/network/members">
+    <img src="https://img.shields.io/github/forks/adilraj786/E-commerce?style=flat-square" alt="GitHub Forks"/>
+  </a>
 </p>
 
 ---
